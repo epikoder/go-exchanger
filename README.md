@@ -1,1 +1,1 @@
-# go-payment-provider
+# go-exchanger

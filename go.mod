@@ -1,3 +1,3 @@
-module github.com/epikoder/go-payment-provider
+module github.com/epikoder/go-exchanger
 
 go 1.20
